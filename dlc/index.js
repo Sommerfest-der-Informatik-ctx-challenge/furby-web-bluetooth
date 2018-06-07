@@ -27,5 +27,19 @@
         "buttons": [
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
+    },
+    {
+        "file": "rick.dlc", 
+        "title": "Rickroll",
+        "buttons": [
+            { "title": "Rickroll ", "action": [75,0,4,4] }
+        ]
+    },
+    {
+        "file": "chal.dlc", 
+        "title": "Challenge",
+        "buttons": [
+            { "title": "Challenge ", "action": [75,0,4,4] }
+        ]
     }
 ]
